@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1f1f1f;
+}
+
+div.header {
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #282828;
+}
+
+div.left {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 400px;
+    background-color: #282828;
+}
